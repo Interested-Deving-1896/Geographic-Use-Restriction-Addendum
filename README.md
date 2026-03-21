@@ -41,9 +41,9 @@ We believe that software distributed by the open-source community should be free
 our projects remain tools for freedom, not instruments of state tracking.
 
 ## Works by freedom fighters (inc. those project who includes GURA):
-https://agelesslinux.org/
-https://doctorow.medium.com/
-https://www.cs.columbia.edu/~smb/papers/age-verify.pdf
+- https://agelesslinux.org/
+- https://doctorow.medium.com/
+- https://www.cs.columbia.edu/~smb/papers/age-verify.pdf
 
 If you want your work featured here, add GURA and submit an issue. 
 
