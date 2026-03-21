@@ -35,7 +35,7 @@ like California, Texas, and Brazil.
 This document supplements your existing license (e.g., MIT, GPL, Apache). If a person or an entity falls within the **Restricted Jurisdiction**, they are explicitly revoked access from using
 your code under these mandates. 
 
-- This means, your code is explicitly banned from within the **Restricted Jurisdiction**, and you have no legal obligation to comply to the additional age-checking mandates.
+- This means, your code explicitly bans usage from within the **Restricted Jurisdiction**, and hence you have no legal obligation to comply to the additional age-checking mandates.
 
 We believe that software distributed by the open-source community should be free of government data-collection obligations. We do not support such laws and we want to ensure
 our projects remain tools for freedom, not instruments of state tracking.
