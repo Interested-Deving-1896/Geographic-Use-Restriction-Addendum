@@ -1,7 +1,4 @@
-# GURA
-Geographic Use Restriction Addendum
-
-# 🛑 Introducing the Geographic Use Restriction Addendum (GURAv1)
+# The Geographic Use Restriction Addendum (GURAv1)
 
 ## Why Does This Exist?
 
