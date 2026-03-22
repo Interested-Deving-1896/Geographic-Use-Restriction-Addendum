@@ -41,6 +41,7 @@ We believe that software distributed by the open-source community should be free
 our projects remain tools for freedom, not instruments of state tracking.
 
 ### Will this addendum stop users from using your code within the **Restricted Jurisdiction**?
+
 Absolutely not. It won’t technically prevent access or use, but it clearly states that such use is outside the terms you support or permit. Software, once published, is inherently difficult to contain, moreover, that is not the goal of this addendum.
 
 ## Important distinction
