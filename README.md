@@ -44,6 +44,12 @@ our projects remain tools for freedom, not instruments of state tracking.
 
 In practical terms; no - It won’t technically prevent access or use, but it clearly states that such use is outside the terms you support or permit. It is inherently difficult to contain software once they're published, moreover, that is not the goal of this addendum.
 
+### What is the point of this addendum since source codes are technically a speech?
+
+Further read: [Code as Speech](https://en.wikipedia.org/wiki/Code_as_speech)
+
+Some repos ships compiled code as releases or program helpers to the source code. This addendum settles the argument of whether a repo file is a speech or a compiled software once and for all. 
+
 ## Important distinction
 Under the definition of "open source" as outlined in https://opensource.org/osd, adding this addendum to your project terminates your project's state from being "opensourced", as this addendum explicitly discriminates users from a certain geographical area, violating rule 5. 
 
