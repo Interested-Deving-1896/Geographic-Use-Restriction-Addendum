@@ -47,7 +47,7 @@ In practical terms; no - It won’t technically prevent access or use, but it cl
 ## Important distinction
 Under the definition of "open source" as outlined in https://opensource.org/osd, adding this addendum to your project terminates your project's state from being "opensourced", as this addendum explicitly discriminates users from a certain geographical area, violating rule 5. 
 
-However, for other areas not within the **Restricted Jurisdiction**, rules as outlined from your base licence applies. For example, using this addendum on top of MIT license stops it from being MIT, and stops your project from being in a state of opensource, but the licence agreement as outlined by the MIT licence still applies to users/entities whose outside of the **Restricted Jurisdiction**
+However, for other areas not within the **Restricted Jurisdiction**, rules as outlined from your base licence applies. For example, using this addendum on top of MIT license stops it from being MIT, and stops your project from being in a state of opensource, but the licence agreement as outlined by the MIT licence still applies to users/entities who are outside of the **Restricted Jurisdiction**.
 
 Thanks to [@DangerBlack](https://www.reddit.com/user/DangerBlack/) for his [research and contribution](https://www.reddit.com/r/privacy/comments/1rzccwr/comment/obqrm5i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on this important distinction. 
 
