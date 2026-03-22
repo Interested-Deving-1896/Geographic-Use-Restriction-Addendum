@@ -42,7 +42,7 @@ our projects remain tools for freedom, not instruments of state tracking.
 
 ### Will this addendum stop users from using your code within the **Restricted Jurisdiction**?
 
-In practical terms, absolutely not - It won’t technically prevent access or use, but it clearly states that such use is outside the terms you support or permit. It is inherently difficult to contain software once they're published, moreover, that is not the goal of this addendum.
+In practical terms; no - It won’t technically prevent access or use, but it clearly states that such use is outside the terms you support or permit. It is inherently difficult to contain software once they're published, moreover, that is not the goal of this addendum.
 
 ## Important distinction
 Under the definition of "open source" as outlined in https://opensource.org/osd, adding this addendum to your project terminates your project's state from being "opensourced", as this addendum explicitly discriminates users from a certain geographical area, violating rule 5. 
